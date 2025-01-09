@@ -1,7 +1,5 @@
 package Test;
 
-// Manish's work
-
 public class Cache {
     static class Core_Object {
         int id;
